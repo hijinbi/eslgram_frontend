@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>int + hitest</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+        <button onClick={() => setCount( count + 1)}>
           rrrr {count}
         </button>
         <p>
